@@ -103,7 +103,7 @@ python src/scraper/pipeline_part2.py
 
 ## **Theory: Pipeline Flow**
 
-![RFX Pipeline](./assets/pipeline.png)
+![RFX Pipeline](./assets/pipeline.svg)
 
 The pipeline for processing RFX documents is structured to handle the ingestion, processing, and interaction with the data in a step-by-step manner. Below is an explanation of each component:
 
