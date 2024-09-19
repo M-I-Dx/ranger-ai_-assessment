@@ -1,6 +1,6 @@
 import os
 import shutil
-#from information_extraction.lamma import RFXFeatureExtractor
+from information_extraction.llama import RFXFeatureExtractor
 from data_processing.markdown_conversion import pdf_to_markdown
 
 
